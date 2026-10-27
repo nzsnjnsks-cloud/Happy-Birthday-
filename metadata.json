@@ -1,0 +1,6 @@
+{
+  "name": "Romantic Birthday Surprise",
+  "description": "A deeply personal, interactive, and romantic birthday surprise website with custom photos, love letter, timeline, cake, music, and love reasons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
